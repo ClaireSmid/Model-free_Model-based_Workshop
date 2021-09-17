@@ -6,10 +6,13 @@ Created by Claire Smid and Wouter Kool
 ## How to do the workshop
 Inside this repository, we have uploaded all the exercise scripts that you will work with during the workshop today. The easiest way to work with these files is to click on the green button with 'Code' in it on the top right, and then clicking on 'Download ZIP' to download these scripts to your computer, where you can unzip them. We would recommend for this workshop to download the files to your desktop, so you have them easily accessible. 
 
+### Using Google Colab
 If you want to work with Google Colab, the easiest way is to then upload the unzipped folder to your Google Drive. Once this is done, you can open the script in Google colab just by double-clicking on a script! 
 
+### Using Jupyter Notebook
 If you want to work with Jupyter Notebook instead, the easiest way is to use Anaconda (https://www.anaconda.com/) which is like a package manager for Python based applications. If you launch Jupyter notebook from there, it will open in your browser, and you can navigate to the downloaded scripts inside Jupyter Notebook and open them from there.
 
+### Other Python editors
 You can of course also open the scripts in other Python applications (e.g. PyCharm, Spyder), however, we would recommend using either Google Colab or Jupyter Notebook so you can work with ineractive cells.
 
 ## Solutions to exercises
