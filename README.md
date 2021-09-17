@@ -1,7 +1,7 @@
 # FLUX computational modelling workshop, September 2021
 # Computational modeling of goal-directed and habitual reinforcement-learning strategies
 
-This folder contains all the material to be used in the FLUX 2021 Model-free and model-based computational workshop.
+This folder contains all the material to be used in the two-hour FLUX 2021 Model-free and model-based computational workshop.
 
 Created by Claire Smid and Wouter Kool
 
