@@ -4,7 +4,7 @@ This folder contains all the material to be used in the FLUX 2021 Model-free and
 Created by Claire Smid and Wouter Kool
 
 ## How to do the workshop
-Inside this repository, we have uploaded all the exercise scripts that you will work with during the workshop today. If you are not familiar with Github, **the easiest way to work with these files is to click on the green button with 'Code' in it on the top right, and then clicking on 'Download ZIP' in the drop-down menu to download these scripts to your computer, where you can unzip them.** We would recommend for this workshop to **download the files to your desktop**, so you have them easily accessible. We would also recommend you use **Google Chrome**, especially if using Google Colab.
+Inside this repository, we have uploaded all the exercise scripts that you will work with during the workshop today. If you are not familiar with Github, **the easiest way to work with these files is to click on the green button with 'Code' in it on the top right, and then clicking on 'Download ZIP' in the drop-down menu to download these scripts to your computer, where you can unzip them.** We would recommend for this workshop that you **download the files to your desktop**, so you have them easily accessible. We would also recommend you use **Google Chrome**, especially if using Google Colab.
 
 #### Using Google Colab
 If you want to work with Google Colab, the easiest way is to then upload the unzipped folder to your Google Drive (https://drive.google.com/drive/my-drive). Once this is done, you can open the script in Google colab just by double-clicking on a script! 
