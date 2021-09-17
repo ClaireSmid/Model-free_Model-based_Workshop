@@ -2,3 +2,17 @@
 This folder contains all the material to be used in the FLUX 2021 Model-free and model-based computational workshop.
 
 Created by Claire Smid and Wouter Kool
+
+## How to do the workshop
+Inside this repository, we have uploaded all the exercise scripts that you will work with during the workshop today. The easiest way to work with these files is to click on the green button with 'Code' in it on the top right, and then clicking on 'Download ZIP' to download these scripts to your computer, where you can unzip them. We would recommend for this workshop to download the files to your desktop, so you have them easily accessible. 
+
+If you want to work with Google Colab, the easiest way is to then upload the unzipped folder to your Google Drive. Once this is done, you can open the script in Google colab just by double-clicking on a script! 
+
+If you want to work with Jupyter Notebook instead, the easiest way is to use Anaconda (https://www.anaconda.com/) which is like a package manager for Python based applications. If you launch Jupyter notebook from there, it will open in your browser, and you can navigate to the downloaded scripts inside Jupyter Notebook and open them from there.
+
+You can of course also open the scripts in other Python applications (e.g. PyCharm, Spyder), however, we would recommend using either Google Colab or Jupyter Notebook so you can work with ineractive cells.
+
+## Solutions to exercises
+Throughout the workshop, we will upload the solutions to the exercies in the 'Solutions' folder. Note that it is empty at the start of the workshop! We really want you to give the exercises a try, and if you get stuck, do reach out to us for help - that's what we're here for :)
+
+To download the solutions script that will get added throughout the workshop, the easiest way is to just download the folder again (by clicking on the green button with 'Code'), and then you can pull the newly added script from the latest zip, and place it in the folder you already downloaded previously, or just drag it straight to your Google Drive if that's what you're using!
