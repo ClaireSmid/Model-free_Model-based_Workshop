@@ -13,7 +13,7 @@ If you want to work with Google Colab, the easiest way is to then upload the unz
 If you want to work with Jupyter Notebook instead, the easiest way is to use Anaconda (https://www.anaconda.com/) which is like a package manager for Python based applications. If you launch Jupyter notebook from there, it will open in your browser, and you can navigate to the downloaded scripts on your computer inside Jupyter Notebook and open them from there.
 
 #### Other Python editors
-You can of course also open the scripts in other Python applications (e.g. PyCharm, Spyder), however, we would recommend using either Google Colab or Jupyter Notebook so you can work with ineractive cells.
+You can of course also open the scripts in other Python applications (e.g. PyCharm, Spyder), **however, we would recommend using either Google Colab or Jupyter Notebook so you can work with ineractive cells.**
 
 ## Solutions to exercises
 Throughout the workshop, we will upload the solutions to the exercies in the 'Solutions' folder. Note that it is empty at the start of the workshop! We really want you to give the exercises a try, and if you get stuck, do reach out to us for help - that's what we're here for :)
